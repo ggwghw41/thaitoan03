@@ -148,9 +148,9 @@ section{
 	max-width: 100%;
 }
 .row{
-	height: 100px;
-	width: 100px;
-	border-radius: 50%;
+	height: 90px;
+	width: 90px;
+	
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
